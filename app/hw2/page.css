@@ -1,0 +1,53 @@
+.container {
+  height: var(--my-height);
+  justify-content: space-between;
+}
+
+.top_list {
+  height: 15vh;
+  justify-content: space-around;
+  list-style: none;
+  gap: 50px;
+}
+
+.top_list li {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.buttun {
+  height: 65vh;
+  width: 60%;
+  justify-content: space-evenly;
+}
+
+.text {
+  height: 50%;
+  justify-content: space-evenly;
+}
+
+.buttun_list {
+  height: 20vh;
+  width: 100%;
+  margin-bottom: 5%;
+}
+
+.right,
+.left {
+  width: 50%;
+  align-items: start;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.right_top,
+.left_top,
+.right_buttun,
+.left_buttun {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 35%;
+}
