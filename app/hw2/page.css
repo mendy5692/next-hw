@@ -51,3 +51,11 @@
   justify-content: space-between;
   height: 35%;
 }
+
+.right_top,
+.right_buttun {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 40%;
+}

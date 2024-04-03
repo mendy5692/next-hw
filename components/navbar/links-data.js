@@ -8,5 +8,9 @@ export const links = [
   {
     title: "hw2",
     href: "/hw2",
+  },
+  {
+    title: "hw3",
+    href: "/hw3",
   }
 ];
