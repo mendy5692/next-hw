@@ -36,7 +36,7 @@ export default function hw2() {
           <h2 className="text_center">
             Looking to reimagine your space?
             <br />
-            Let's get to work!
+            Lets get to work!
           </h2>
           <h3 className="text_center">SAMPURASUN@STUDIOWANGUN.COM</h3>
         </div>
@@ -47,8 +47,8 @@ export default function hw2() {
               <h4>+62 8212 999 1326</h4>
             </div>
             <div className="left_buttun">
-            <h5>Discover Us</h5>
-            <h4>INSTAGRAM</h4>
+              <h5>Discover Us</h5>
+              <h4>INSTAGRAM</h4>
             </div>
           </div>
           <div className="right">
